@@ -8,6 +8,132 @@ html {
 }
 
 div {
-  padding: .5rem;
   text-align: center;
+}
+
+.btn {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.125rem;
+  display: inline-block;
+  padding: .4em .3em;
+  background-color: #333;
+  border-radius: 8px;
+}
+.btn:hover {
+  background-color: #000;
+}
+
+.btn-small {
+  font-size: .875rem;
+  background-color: #333;
+  border-radius: 8px;
+}
+
+.btn-big {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.5rem;
+  padding: .4em .3em;
+}
+
+.btn-subtle {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.125rem;
+  display: inline-block;
+  padding: .4em .3em;
+  background-color: #ccc;
+  border-radius: 8px;
+}
+
+.btn-subtle:hover {
+  background-color: #666;
+}
+
+.btn-subtle-small {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  font-size: .875rem;
+  padding: .4em .3em;
+  background-color: #ccc;
+  border-radius: 8px;
+}
+
+.btn-subtle-big {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.5rem;
+  padding: .4em .3em;
+  background-color: #ccc;
+  border-radius: 8px;
+}
+
+.btn-ghost {
+  color: #000;
+  text-decoration: none;
+  font-size: 1.125rem;
+  display: inline-block;
+  padding: .4em .3em;
+  border: 3px solid #000;
+  border-radius: 8px;
+}
+
+.btn-ghost:hover {
+  background-color: #666;
+}
+
+.btn-ghost-small {
+  color: #000;
+  text-decoration: none;
+  font-size: .875rem;
+  border: 3px solid #000;
+  border-radius: 8px;
+}
+
+.btn-ghost-big {
+  color: #000;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.5rem;
+  padding: .4em .3em;
+  border: 3px solid #000;
+  border-radius: 8px;
+}
+
+.btn-warning {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.125rem;
+  padding: .4em .3em;
+  background-color: #f33;
+  border-radius: 8px;
+}
+
+.btn-warning:hover {
+  background-color: #933;
+}
+
+.btn-warning-small {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  font-size: .875rem;
+  padding: .4em .3em;
+  background-color: #f33;
+  border-radius: 8px;
+}
+
+.btn-warning-big {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.5rem;
+  padding: .4em .3em;
+  background-color: #f33;
+  border-radius: 8px;
 }
