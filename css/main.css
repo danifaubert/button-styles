@@ -42,9 +42,9 @@ div {
 
 .btn-ghost {
   background-color: #fff;
-  border-color: #333;
+  border-color: #000;
   border-style: solid;
-  color: #333;
+  color: #000;
 }
 
 .btn-ghost:hover {
