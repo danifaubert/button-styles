@@ -42,7 +42,8 @@ div {
 
 .btn-ghost {
   background-color: #fff;
-  border-radius: 8px solid #000;
+  border-color: #333;
+  border-style: solid;
   color: #333;
 }
 
